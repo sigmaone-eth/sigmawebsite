@@ -78,3 +78,6 @@ page_sections:
   content: Hello world!
 
 ---
+HELLO THIS IS A TEST
+
+![](/uploads/2018/06/21/drone-photo.jpeg)
