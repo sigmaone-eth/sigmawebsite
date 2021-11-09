@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 layout = "blocks"
 title = "ABOUT"
 [[page_sections]]
